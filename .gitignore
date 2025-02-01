@@ -1,7 +1,7 @@
 .vscode/
 
-api/bin/
-api/obj/
+ProblemSolverAPI/bin/
+ProblemSolverAPI/obj/
 
 *.user
 *.rsuser

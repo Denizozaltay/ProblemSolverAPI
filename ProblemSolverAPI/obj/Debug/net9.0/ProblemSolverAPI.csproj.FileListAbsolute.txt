@@ -31,3 +31,4 @@
 /Users/denizozaltay/Projects/ProblemSolverAPI/ProblemSolverAPI/obj/Debug/net9.0/ProblemSolverAPI.pdb
 /Users/denizozaltay/Projects/ProblemSolverAPI/ProblemSolverAPI/obj/Debug/net9.0/ProblemSolverAPI.genruntimeconfig.cache
 /Users/denizozaltay/Projects/ProblemSolverAPI/ProblemSolverAPI/obj/Debug/net9.0/ref/ProblemSolverAPI.dll
+/Users/denizozaltay/Projects/ProblemSolverAPI/ProblemSolverAPI/obj/Debug/net9.0/ProblemSolverAPI.sourcelink.json

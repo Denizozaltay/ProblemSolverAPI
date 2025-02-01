@@ -1,0 +1,3 @@
+# Problem Solver API
+
+This backend serves as the core of the [ProblemSolver repository](https://github.com/Denizozaltay/ProblemSolver), handling requests from the mobile application and processing them using the OpenRouter.ai API to generate solutions. It receives problem-solving requests from the app and routes them to the OpenRouter.ai service, ensuring that users receive accurate and timely responses.
